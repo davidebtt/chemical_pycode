@@ -1,4 +1,7 @@
 # cσ∂ιηg_cнємιє
-I tackle STEM exercises using Python, making learning science and coding fun and accessible. This project is open-source and free for you to explore, use, and build upon. Remember, your potential in science is limitless—
+In this section, I perform chemical calculations related to solutions and their properties, such as concentration, pH, and boiling point. Feel free to use it however you like! I hope you find it useful.
+
+<img width="345" alt="image" src="https://github.com/user-attachments/assets/892d6e35-dead-4d22-84f0-71089bdb0b39" />
+
 
 Ƀє α cʀєαт♡ʀ, ɴ♡т ʝʊѕт α c♡ɴѕʊмєʀ!
