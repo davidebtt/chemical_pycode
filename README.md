@@ -1,6 +1,5 @@
 # cσ∂ιηg_cнємιє
-I solve STEM challenges with Python, using original, literature-verified code to make science and coding fun and accessible.
-Explore, create, and innovate with this open-source project—your potential is limitless!
+In this section, I solve problems related to organic chemistry mechanisms and the translation of lab-scale reactions from milligram scale to gram scale. The examples are selected to support the development of industrial processes and technology transfer.
 
 <img width="344" alt="image" src="https://github.com/user-attachments/assets/84c63675-8471-420d-bbc8-30fa3428a6a4" />
 
