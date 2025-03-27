@@ -1,6 +1,5 @@
 # cσ∂ιηg_cнємιє
-I solve STEM challenges with Python, using original, literature-verified code to make science and coding fun and accessible.
-Explore, create, and innovate with this open-source project—your potential is limitless!
+This section is dedicated to quantum theory, which lies at the very heart of chemical simulations and light absorption phenomena. It provides explanations for many fundamental processes that we use every day in routine laboratory work.
 
 <img width="317" alt="image" src="https://github.com/user-attachments/assets/e0df7e5d-0833-494f-a1c3-f4469ddcf83a" />
 
